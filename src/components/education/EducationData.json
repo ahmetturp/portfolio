@@ -1,0 +1,31 @@
+{
+  "education": [
+    {
+      "name": "Kristiania University College",
+      "department": "Master of Applied Computer Science",
+      "location": "Oslo, Norway",
+      "year": "2018 - 2020",
+      "description": "<p>During the study, I gained a practical competence within:</p>\n              <ul>\n                <li>Design of visual information dashboards based on big data,</li>\n                <li>Knowledge and practical skills in the development of mobile solutions, Internet of Things and modern architectures,</li>\n                <li>Expertise within interactive technology and software integration.</li>\n              </ul>\n              <p>Other focuses: System development and applied informatics, information visualisation, IT architecture, interactive use of technology, project management and agile methods</p>",
+      "image": "../../src/assets/images/education/hk_logo.png",
+      "image_dark": "../../src/assets/images/education/hk_logo_dark.png"
+    },
+    {
+      "name": "Eskisehir Anadolu University",
+      "department": "Business Administration",
+      "location": "Eskisehir, Turkey",
+      "year": "2012 - 2016",
+      "description": "",
+      "image": "../../src/assets/images/education/au_logo.png",
+      "image_dark": null
+    },
+    {
+      "name": "Kocaeli University",
+      "department": "Computer Programming",
+      "location": "Kocaeli, Turkey",
+      "year": "2009 - 2012",
+      "description": "",
+      "image": "../../src/assets/images/education/ku_logo.png",
+      "image_dark": null
+    }
+  ]
+}
