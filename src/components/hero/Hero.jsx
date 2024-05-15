@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-scroll";
 import "../../customizations.css";
+import profilePhoto from "../../assets/images/hero/at.png";
 
 const Hero = () => {
   const [isActive, setIsActive] = useState(false);
@@ -142,7 +143,7 @@ const Hero = () => {
       <div className="hero-body">
         <div className="container has-text-centered mb-6">
           <figure className="image is-256x256 is-inline-block">
-            <img className="is-rounded" src="src/assets/images/hero/at.png" />
+            <img className="is-rounded" src={profilePhoto} />
           </figure>
           <p className="title is-size-1 is-size-2-mobile mt-5">Ahmet Turp</p>
           <p className="subtitle is-size-4 is-size-5-mobile mt-4">
