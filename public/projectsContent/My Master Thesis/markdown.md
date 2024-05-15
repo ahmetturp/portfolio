@@ -16,22 +16,22 @@ The technology has greatly changed and diversified the ways of teaching and lear
 
 **Course Selection Screen**
 
-![courseSelection](../src/components/projects/content/My%20Master%20Thesis/images/courseSelection.jpg)
+![courseSelection](../projectsContent/My%20Master%20Thesis/images/courseSelection.jpg)
 
 ---
 
 **Icons in a Scene**
 
-![iconsinascene](../src/components/projects/content/My%20Master%20Thesis/images/iconsinascene.jpg)
+![iconsinascene](../projectsContent/My%20Master%20Thesis/images/iconsinascene.jpg)
 
 ---
 
 **Text and Image Tooltips**
 
-![textandimagetooltips](../src/components/projects/content/My%20Master%20Thesis/images/textandimagetooltips.jpg)
+![textandimagetooltips](../projectsContent/My%20Master%20Thesis/images/textandimagetooltips.jpg)
 
 ---
 
 **Students Using VR**
 
-![studentsusingvr](../src/components/projects/content/My%20Master%20Thesis/images/studentsusingvr.jpg)
+![studentsusingvr](../projectsContent/My%20Master%20Thesis/images/studentsusingvr.jpg)

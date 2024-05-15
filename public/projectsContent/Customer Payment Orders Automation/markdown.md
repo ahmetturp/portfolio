@@ -6,7 +6,7 @@ I was responsible for designing the "data validation" user interface (top image)
 
 #### The workflow and the architecture of the system
 
-![diagram](../src/components/projects/content/Customer%20Payment%20Orders%20Automation/images/CustomerOrdersDiagram.png)
+![diagram](../projectsContent/Customer%20Payment%20Orders%20Automation/images/CustomerOrdersDiagram.png)
 
 1. **Custom Web Service:** Web Service that enables to import batch information to be created in Kofax.
 
@@ -25,7 +25,7 @@ Data extraction is a process that involves retrieval of data from various source
 **String Locaters:** To narrow down the results of the regular expressions
 **and custom scripting** (to format or convert the string.)
 
-![diagram](../src/components/projects/content/Customer%20Payment%20Orders%20Automation/images/ValidationDetails.png)
+![diagram](../projectsContent/Customer%20Payment%20Orders%20Automation/images/ValidationDetails.png)
 
 Left: Original Document. Right: Extracted Data
 
@@ -37,4 +37,4 @@ Left: Original Document. Right: Extracted Data
 
 **Kofax Validation Screen**
 
-![ValidationScreen](../src/components/projects/content/Customer%20Payment%20Orders%20Automation/images/ValidationScreen.png)
+![ValidationScreen](../projectsContent/Customer%20Payment%20Orders%20Automation/images/ValidationScreen.png)

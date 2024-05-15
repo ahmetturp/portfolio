@@ -22,9 +22,9 @@ For this project, I was responsible for designing the whole solution, including:
 
 ## The workflow and the architecture of the system
 
-![](../src/components/projects/content/Automation%20of%20Document%20Processing%20with%20RPA/images/transportationPermitsAutomation3.png)
+![](../projectsContent/Automation%20of%20Document%20Processing%20with%20RPA/images/transportationPermitsAutomation3.png)
 
-(Click [here](../src/components/projects/content/Automation%20of%20Document%20Processing%20with%20RPA/images/transportationPermitsAutomation3.png) to enlarge the image)
+(Click [here](../projectsContent/Automation%20of%20Document%20Processing%20with%20RPA/images/transportationPermitsAutomation3.png) to enlarge the image)
 
 1. **Permits are scanned:** The physical documents are scanned and saved to a shared folder for robots to access and process them.
 2. **Import the scanned files:** RPA work starts here. The robot looks for the PDF files at 13:00 (scan operators finish the scanning job before that time). If there are any files, the robot queues these files. Then another robot(s) can start processing the files in this queue.
@@ -55,34 +55,34 @@ _(Some parts of the screenshots are blurred to hide the customer data)_
 
 **A "Transportation Permit" document. Sequence and Number information are highlighted in blue**
 
-![](../src/components/projects/content/Automation%20of%20Document%20Processing%20with%20RPA/images/transportationPermit.jpg)
+![](../projectsContent/Automation%20of%20Document%20Processing%20with%20RPA/images/transportationPermit.jpg)
 
 ---
 
 **Weighbridge Receipt**
 
-![](../src/components/projects/content/Automation%20of%20Document%20Processing%20with%20RPA/images/weighbridgeReceipt.jpg)
+![](../projectsContent/Automation%20of%20Document%20Processing%20with%20RPA/images/weighbridgeReceipt.jpg)
 
 ---
 
 **OnBase "successful items" queue. Users can easily access the related permit from the shortcut on the bottom left**
 
-![](../src/components/projects/content/Automation%20of%20Document%20Processing%20with%20RPA/images/successQueue.jpg)
+![](../projectsContent/Automation%20of%20Document%20Processing%20with%20RPA/images/successQueue.jpg)
 
 ---
 
 **OnBase "failed items" queue. Users can query the SAP system with the action button highlighted in blue**
 
-![](../src/components/projects/content/Automation%20of%20Document%20Processing%20with%20RPA/images/failQueue.jpg)
+![](../projectsContent/Automation%20of%20Document%20Processing%20with%20RPA/images/failQueue.jpg)
 
 ---
 
 **Hyland RPA Dashboard. The dashboard is used to report robot's performance, run tasks manually etc.**
 
-![](../src/components/projects/content/Automation%20of%20Document%20Processing%20with%20RPA/images/rpawebmanagerfull.jpg)
+![](../projectsContent/Automation%20of%20Document%20Processing%20with%20RPA/images/rpawebmanagerfull.jpg)
 
 ---
 
 **Hyland RPA Designer - No-Code RPA Development Interface**
 
-![](../src/components/projects/content/Automation%20of%20Document%20Processing%20with%20RPA/images/rpaDesigner.jpg)
+![](../projectsContent/Automation%20of%20Document%20Processing%20with%20RPA/images/rpaDesigner.jpg)

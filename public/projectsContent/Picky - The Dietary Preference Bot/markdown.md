@@ -2,7 +2,7 @@
 
 In this group project, we created a chatbot that can help users decide what they want to eat. The application applies these opportunities while focusing on different allergies and dietary preferences while aiming to satisfy the need with care and precision. We followed the Human-Computer Interaction (HCI) [1] and design guidelines [2]. For example, when any information is missing for the bot to find a restaurant, it asks more naturally (and in different ways each time) instead of something like "the 'price range' field is missing".
 
-![diagram](../src/components/projects/content/Picky%20-%20The%20Dietary%20Preference%20Bot/images/picky.jpg)
+![diagram](../projectsContent/Picky%20-%20The%20Dietary%20Preference%20Bot/images/picky.jpg)
 
 We used the following tools and frameworks during the development phase.
 
@@ -14,13 +14,13 @@ We used the following tools and frameworks during the development phase.
 
 **The activity diagram is explaining the user dialog with the application.**
 
-![diagram](../src/components/projects/content/Picky%20-%20The%20Dietary%20Preference%20Bot/images/diagram.jpg)
+![diagram](../projectsContent/Picky%20-%20The%20Dietary%20Preference%20Bot/images/diagram.jpg)
 
 ---
 
 **"Show more restaurants" message**
 
-![picky2](../src/components/projects/content/Picky%20-%20The%20Dietary%20Preference%20Bot/images/picky2.jpg)
+![picky2](../projectsContent/Picky%20-%20The%20Dietary%20Preference%20Bot/images/picky2.jpg)
 
 ## References
 

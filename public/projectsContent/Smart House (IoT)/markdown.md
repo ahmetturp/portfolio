@@ -14,13 +14,13 @@ We thought the best places to start this trend are where we spend our time the m
 
 **Front View of the Smart House**
 
-![houseFront](<../src/components/projects/content/Smart%20House%20(IoT)/images/houseFront.jpg>)
+![houseFront](<../projectsContent/Smart%20House%20(IoT)/images/houseFront.jpg>)
 
 ---
 
 **Top View of the Smart House**
 
-![houseTop](<../src/components/projects/content/Smart%20House%20(IoT)/images/houseTop.jpg>)
+![houseTop](<../projectsContent/Smart%20House%20(IoT)/images/houseTop.jpg>)
 
 1. **Light Sensor:** We used a light sensor to detect the intensity of the daylight. The sensor placed outside of the building. It used to turn on or off outdoor (5) and indoor (6) lights, depending on the daylight level.
 2. **Temperature Sensor:** A temperature sensor placed in the middle of the house. We tried to keep the temperature around 23 Celsius degrees. If it is hot, the cooling fan (7) turned on and heater (8) turned off and vice versa.
@@ -35,10 +35,10 @@ We thought the best places to start this trend are where we spend our time the m
 
 **Mobile Dashboard**
 
-![mobileDashboard](<../src/components/projects/content/Smart%20House%20(IoT)/images/mobileDashboard.jpg>)
+![mobileDashboard](<../projectsContent/Smart%20House%20(IoT)/images/mobileDashboard.jpg>)
 
 ---
 
 **Our poster design for the smart house**
 
-![poster](<../src/components/projects/content/Smart%20House%20(IoT)/images/poster.jpg>)
+![poster](<../projectsContent/Smart%20House%20(IoT)/images/poster.jpg>)

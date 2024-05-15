@@ -50,9 +50,6 @@ const ProjectDetails = () => {
     <>
       <div className="section">
         <div className="container is-max-desktop">
-          {/* <figure className="image is-16by9">
-            <img className="image-top-radius" src={project.thumbnail} />
-          </figure> */}
           <section className="hero is-link hero-radius">
             <div className="hero-body">
               <p className="title">{project.title}</p>

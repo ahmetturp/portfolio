@@ -6,7 +6,7 @@
       "shortDescription": "<p>I built this website from scratch using React and Bulma CSS.</p><p>While learning React, I wanted to practice my skills and make a real-world project that I could actually benefit from.</p>",
       "tags": ["New", "React", "Vite", "Frontend"],
       "thumbnail": "./images/projects/reactAndBulma.png",
-      "markdownFile": "../src/components/projects/content/This%20Website/markdown.md",
+      "markdownFile": "../projectsContent/This%20Website/markdown.md",
       "isActive": true
     },
     {
@@ -15,7 +15,7 @@
       "shortDescription": "See how I automated a routine service bureau operation and how our customer benefits from this solution.",
       "tags": ["New", "RPA", "Automation"],
       "thumbnail": "./images/projects/hylandRPA.jpg",
-      "markdownFile": "../src/components/projects/content/Automation of Document Processing with RPA/markdown.md",
+      "markdownFile": "../projectsContent/Automation%20of%20Document%20Processing%20with%20RPA/markdown.md",
       "isActive": true
     },
     {
@@ -24,7 +24,7 @@
       "shortDescription": "We helped our customer to automate their workflow. The daily volume of the process was consisting of 5000 cases.",
       "tags": ["Data Extraction", "OCR"],
       "thumbnail": "./images/projects/ValidationScreen.jpg",
-      "markdownFile": "../src/components/projects/content/Customer Payment Orders Automation/markdown.md",
+      "markdownFile": "../projectsContent/Customer Payment Orders Automation/markdown.md",
       "isActive": false
     },
     {
@@ -33,7 +33,7 @@
       "shortDescription": "I built an educational virtual reality application in Unity Game Engine. The aim of my thesis was to find whether if it is possible to use virtual reality as a supplementary tool in lessons.",
       "tags": ["VR", "Unity"],
       "thumbnail": "./images/projects/masterThesis.jpg",
-      "markdownFile": "../src/components/projects/content/My%20Master%20Thesis/markdown.md",
+      "markdownFile": "../projectsContent/My%20Master%20Thesis/markdown.md",
       "isActive": true
     },
     {
@@ -42,7 +42,7 @@
       "shortDescription": "<p>In this group project, we offer a consumer-related Smart House solution along with a prototype.</p><p>We used Particle Photon as the IoT interface and developed a mobile application for users to remotely control smart objects at their home.</p>",
       "tags": ["IoT", "Particle Photon", "Mobile"],
       "thumbnail": "./images/projects/smartHouse.png",
-      "markdownFile": "../src/components/projects/content/Smart%20House%20(IoT)/markdown.md",
+      "markdownFile": "../projectsContent/Smart%20House%20(IoT)/markdown.md",
       "isActive": true
     },
     {
@@ -51,7 +51,7 @@
       "shortDescription": "In this group project, we used Google Dialogflow, Google Firebase and Facebook for Developers to create a chatbot that can help users decide what they want to eat.",
       "tags": ["Chatbot", "Firebase", "API"],
       "thumbnail": "./images/projects/picky.png",
-      "markdownFile": "../src/components/projects/content/Picky%20-%20The%20Dietary%20Preference%20Bot/markdown.md",
+      "markdownFile": "../projectsContent/Picky%20-%20The%20Dietary%20Preference%20Bot/markdown.md",
       "isActive": true
     },
     {
@@ -60,7 +60,7 @@
       "shortDescription": "<p>In this exam project, I created a dashboard from a big dataset. <p>The purpose of the project was to identify and to choose the appropriate principles, methods, tools and techniques for a given dataset to create a meaningful and actionable information dashboard.</p>",
       "tags": ["Dashboard Design", "BI", "Tableau"],
       "thumbnail": "./images/projects/visualAnalytics.png",
-      "markdownFile": "../src/components/projects/content/Visual%20Analytics/markdown.md",
+      "markdownFile": "../projectsContent/Visual%20Analytics/markdown.md",
       "isActive": true
     }
   ]

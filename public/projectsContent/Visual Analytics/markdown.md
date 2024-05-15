@@ -22,7 +22,7 @@ In _Video Game Sales With Ratings_, there are 16,715 game titles. The ones that 
 
 In _Top 100 Countries/Markets by Game Revenues_, countries listed along with their total revenues. I combined the years 2015, 2016, 2017 and 2018 in one single Excel file. I used relationships (left join by Country) between the sheets, as can be seen below:
 
-![TopCountriesByGameRevenuesTableRelationships](../src/components/projects/content/Visual%20Analytics/images/TopCountriesByGameRevenues/TableRelationships.png)
+![TopCountriesByGameRevenuesTableRelationships](../projectsContent/Visual%20Analytics/images/TopCountriesByGameRevenues/TableRelationships.png)
 
 In annual reports of _Electronic Arts_ and _Ubisoft_, I referred to their fiscal year reports between the years 2007-2018. The file contains packaged sales and digital sales, year by year.
 
@@ -119,7 +119,7 @@ Scatter plots (a.k.a. X-Y plots) are used to present relationships between two d
 
 ### Top Countries By Game Revenues
 
-![TopCountriesByGameRevenues](../src/components/projects/content/Visual%20Analytics/images/TopCountriesByGameRevenues/TopCountriesByGameRevenues.png)
+![TopCountriesByGameRevenues](../projectsContent/Visual%20Analytics/images/TopCountriesByGameRevenues/TopCountriesByGameRevenues.png)
 
 #### Development
 
@@ -133,7 +133,7 @@ I dragged **Grouped Countries** and **Measure Names** to Columns. Then I dragged
 
 2. Under Dimensions, hold down "Ctrl" key and select all fields named **Country**, right-click any of it, select **Transform>Merge mismatched fields**. Name the new field as **Grouped Countries** and add Europe countries to the new **Europe** group (image below).
 
-   ![](../src/components/projects/content/Visual%20Analytics/images/TopCountriesByGameRevenues/GroupedCountries.png)
+   ![](../projectsContent/Visual%20Analytics/images/TopCountriesByGameRevenues/GroupedCountries.png)
 
 3. From the **Data** pane, under Measures, right click to an empty space and select **Create>Calculated Field**. Name the new field as "Total Value in 4 Years". Enter the calculation below and click Apply.
 
@@ -153,7 +153,7 @@ I dragged **Grouped Countries** and **Measure Names** to Columns. Then I dragged
 
 ### Global Sales By Year
 
-![GlobalSalesByYear](../src/components/projects/content/Visual%20Analytics/images/GlobalSalesByYear/GlobalSalesByYear.png)
+![GlobalSalesByYear](../projectsContent/Visual%20Analytics/images/GlobalSalesByYear/GlobalSalesByYear.png)
 
 #### Development
 
@@ -189,13 +189,13 @@ For the last touches, I re-ordered the measures and changed the color palette to
 
 11. Double click on the **Percentage of Digital Sales** axis to open the Edit Axis dialog box (image below) and select **Fixed**. Then enter **0** to Fixed start, and **100** to Fixed end.
 
-    ![](../src/components/projects/content/Visual%20Analytics/images/GlobalSalesByYear/PercentageAxis.png)
+    ![](../projectsContent/Visual%20Analytics/images/GlobalSalesByYear/PercentageAxis.png)
 
 12. **Miscellaneous:** Re-ordered Measure Names, changed the color palette, renamed Y axis to "Number of Packaged Sales (M)". Hide Year of Release Date field label. Added annotations to console release years.
 
 ### Word Cloud
 
-![Wordcloud](../src/components/projects/content/Visual%20Analytics/images/WordCloud/WordCloud.png)
+![Wordcloud](../projectsContent/Visual%20Analytics/images/WordCloud/WordCloud.png)
 
 #### Development
 
@@ -212,7 +212,7 @@ To create a word cloud, I dragged **Word** to **Text** on the Marks card. Then I
 
 ### Game Sales by Platforms
 
-![GameSalesByPlatforms](../src/components/projects/content/Visual%20Analytics/images/GameSalesByPlatforms/GameSalesByPlatforms.png)
+![GameSalesByPlatforms](../projectsContent/Visual%20Analytics/images/GameSalesByPlatforms/GameSalesByPlatforms.png)
 
 #### Development
 
@@ -231,7 +231,7 @@ I dragged **Release Date** to Columns and **Global Sales** to Rows. I selected B
 
 ### Global Sales vs. Average Critic Scores
 
-![GlobalSalesVsAvgCriticScores](../src/components/projects/content/Visual%20Analytics/images/GlobalSalesVsAvgCriticScores/GlobalSalesVsAvgCriticScores.png)
+![GlobalSalesVsAvgCriticScores](../projectsContent/Visual%20Analytics/images/GlobalSalesVsAvgCriticScores/GlobalSalesVsAvgCriticScores.png)
 
 #### Development
 
