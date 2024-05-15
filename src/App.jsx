@@ -14,7 +14,7 @@ import ScrollToTop from "./ui/ScrollToTop";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/portfolio">
       <div className="App">
         <Routes>
           <Route path="/" element={<Home />} />
