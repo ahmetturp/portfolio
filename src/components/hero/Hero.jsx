@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-scroll";
 import "../../customizations.css";
-import profilePhoto from "/images/hero/at.png";
+import profilePhoto from "/images/hero/at.webp";
 
 const Hero = () => {
   const [isActive, setIsActive] = useState(false);
