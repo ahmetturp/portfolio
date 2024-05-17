@@ -64,18 +64,7 @@ const ProjectDetails = () => {
         </div>
 
         <div className="container is-max-desktop">
-          <div className="block">
-            <div
-              className="button is-link mt-6 is-flex-mobile"
-              onClick={handleGoBack}
-            >
-              <span className="icon">
-                <i className="fas fa-chevron-left"></i>
-              </span>
-              <span>Return back</span>
-            </div>
-          </div>
-          <div className="content">
+          <div className="content my-6">
             {isLoading ? (
               <ParagraphSkeleton />
             ) : (
@@ -83,6 +72,18 @@ const ProjectDetails = () => {
                 <ReactMarkdown>{markdownContent}</ReactMarkdown>
               )
             )}
+          </div>
+          <hr />
+          <div className="container has-text-centered">
+            <div
+              className="button is-link is-ghost is-flex-mobile"
+              onClick={handleGoBack}
+            >
+              <span className="icon">
+                <i className="fas fa-chevron-left"></i>
+              </span>
+              <span>Return back</span>
+            </div>
           </div>
         </div>
       </div>
