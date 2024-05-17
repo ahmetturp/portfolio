@@ -76,7 +76,7 @@ const ProjectDetails = () => {
           <hr />
           <div className="container has-text-centered">
             <div
-              className="button is-link is-ghost is-flex-mobile"
+              className="button is-white is-flex-mobile"
               onClick={handleGoBack}
             >
               <span className="icon">
