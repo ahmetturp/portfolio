@@ -53,12 +53,13 @@ const ProjectDetails = () => {
           <section className="hero is-link hero-radius">
             <div className="hero-body">
               <p className="title">{project.title}</p>
-              <p
-                className="subtitle mt-4"
-                dangerouslySetInnerHTML={parseHtmlString(
-                  project.shortDescription
-                )}
-              ></p>
+              <p className="subtitle mt-4">
+                <span
+                  dangerouslySetInnerHTML={parseHtmlString(
+                    project.shortDescription
+                  )}
+                ></span>
+              </p>
             </div>
           </section>
         </div>
