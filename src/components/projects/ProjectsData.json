@@ -5,7 +5,7 @@
       "title": "Generative AI Chatbot Interface",
       "shortDescription": "<p>Explore how I developed an innovative web-based platform that enables companies to create and interact with custom AI chatbots.</p>",
       "tags": ["New", "AI", "React", "TypeScript"],
-      "thumbnail": "./images/projects/visualAnalytics.png",
+      "thumbnail": "./images/projects/generativeAi.jpg",
       "markdownFile": "../projectsContent/Generative%20AI%20Chatbot%20Interface/markdown.md",
       "isActive": true
     },

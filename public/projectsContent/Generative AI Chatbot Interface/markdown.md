@@ -1,10 +1,10 @@
-At my current company, Data Market, my team was tasked with developing a new product: **a web-based platform** that allows users to create custom assistant AI agents tailored to their company's needs. These agents can serve various purposes, such as interactive internal or external customer support, contract management assistance, email filtering and redirection, and many more.
+During my work at Data Market, my team was tasked with developing a new product: **a web-based platform** that allows users to create custom assistant AI agents tailored to their company's needs. These agents can serve various purposes, such as interactive internal or external customer support, contract management assistance, email filtering and redirection, and many more.
 
 ## Development Process
 
 ### Why?
 
-AI has advanced rapidly, and many companies must act quickly to leverage the advantages it offers. Based on the feedback we've received from customers, most of their needs are relatively straightforward: providing their employees with role-based chatbots, establishing integrations to enhance the capabilities of their existing applications, and ensuring that the company’s data remains within the organization.
+Generative AI has advanced rapidly, and many companies must act quickly to leverage the advantages it offers. Based on the feedback we've received from customers, most of their needs are relatively straightforward: providing their employees with role-based chatbots, establishing integrations to enhance the capabilities of their existing applications, and ensuring that the company’s data remains within the organization.
 
 Factors such as the need for a **deep understanding** of configuring services like Azure AI Foundry or AWS, and the fact that not every company has the personnel resources to meet this requirement, were also important considerations.
 
@@ -16,7 +16,7 @@ Taking these into account, our new application provides the following solutions:
 
 ### 💻 The (Very Modern) Tech Stack
 
-![test](../projectsContent/Generative%20AI%20Chatbot%20Interface/images/3.png)
+![techstack](../projectsContent/Generative%20AI%20Chatbot%20Interface/images/TechStack.png)
 
 - **React:** The primary UI framework used to build the core structure of the application.
 
@@ -32,13 +32,15 @@ Taking these into account, our new application provides the following solutions:
 
 - **Framer Motion:** A modern animation library for React. I used this to add smooth, engaging animations to specific UI components, improving the visual appeal and user experience.
 
-![test](../projectsContent/Generative%20AI%20Chatbot%20Interface/images/1.png)
+## App Features
 
-## Website Features
+Our app is in its early development phase, and while the features described below showcase some of the core functionalities, there’s much more to come. The roadmap includes exciting updates such as advanced analytics, chatbot performance metrics, and deeper customization options for users and administrators.
 
 **🤖 Creating Chatbots**
 
 Users can upload files (e.g., PDF, Word, TXT) to create job-specific chatbots. They can also define system prompts to specify how the bot should respond.
+
+![creatingchatbot](../projectsContent/Generative%20AI%20Chatbot%20Interface/images/CreatingChatbot.gif)
 
 **🔐 Managing Users (Authentication and Authorization)**
 
@@ -54,16 +56,16 @@ In the chat window, the chatbot provides answers based on the documents it has b
 
 Each chat instance takes into account the conversation history within that session when generating new replies.
 
+![chatting](../projectsContent/Generative%20AI%20Chatbot%20Interface/images/Chatting.gif)
+
 **⚙️ User Settings**
 
 Users can personalize their experience by customizing the website’s theme and language preferences. These settings are saved and automatically applied when users return to the website.
 
-![test](../projectsContent/Generative%20AI%20Chatbot%20Interface/images/4.gif)
+![usersettings](../projectsContent/Generative%20AI%20Chatbot%20Interface/images/UserSettings.gif)
 
 ### Conclusion
 
 Building this application was an exciting journey for me and my team. We wanted to create something that makes it easier for businesses to use AI without needing a deep technical background. By focusing on flexibility, privacy, and user-friendly design, we built a platform that helps companies create their own AI assistants for a variety of tasks.
 
-This project taught me a lot about balancing cutting-edge tech with real-world needs, and I’m excited to see how businesses will use it to make their work more efficient and effective.
-
-![test](../projectsContent/Generative%20AI%20Chatbot%20Interface/images/2.gif)
+This project has already taught me a lot about balancing cutting-edge tech with real-world needs, and I’m excited to see how businesses will use it to make their work more efficient and effective.
