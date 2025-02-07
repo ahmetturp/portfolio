@@ -56,6 +56,15 @@
     },
     {
       "id": 7,
+      "title": "Low Code Development",
+      "shortDescription": "I developed several mobile and web apps on different low-code/no-code platforms such as OutSystems, Kuika and Mendix. Here I display two of them, an event management app and hupiko, an employee engagement app.",
+      "tags": ["Low-code", "No-code", "OutSystems"],
+      "thumbnail": "./images/projects/lowCodeProjects.jpg",
+      "markdownFile": "../projectsContent/Low%20Code%20Development/markdown.md",
+      "isActive": true
+    },
+    {
+      "id": 8,
       "title": "Visual Analytics",
       "shortDescription": "<p>In this exam project, I created a dashboard from a big dataset. <p>The purpose of the project was to identify and to choose the appropriate principles, methods, tools and techniques for a given dataset to create a meaningful and actionable information dashboard.</p>",
       "tags": ["Dashboard Design", "BI", "Tableau"],
@@ -64,7 +73,7 @@
       "isActive": true
     },
     {
-      "id": 8,
+      "id": 9,
       "title": "Picky - The Dietary Preference Bot",
       "shortDescription": "In this group project, we used Google Dialogflow, Google Firebase and Facebook for Developers to create a chatbot that can help users decide what they want to eat.",
       "tags": ["Chatbot", "Firebase", "API"],
