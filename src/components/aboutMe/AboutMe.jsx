@@ -1,4 +1,5 @@
 const AboutMe = () => {
+  const aboutMe = `Hi, I'm Ahmet, a software developer dedicated to crafting innovative software solutions. With a background in software development, enterprise content management, and more, I've helped businesses streamline operations and drive growth. I work at Data Market, where I lead the design and development of cutting-edge applications. Currently, I'm actively learning React and taking steps to become a full-stack developer.`;
   return (
     <section className="section bg-gradient-about-me is-medium has-border-bottom">
       <div className="container">
@@ -11,14 +12,7 @@ const AboutMe = () => {
           <div className="column">
             <div className="container has-text is-size-6">
               <p className="is-size-6-mobile has-text-centered-mobile">
-                Hi, I&apos;m Ahmet, a Solution Developer Specialist dedicated to
-                crafting innovative software solutions. With a background in
-                enterprise content management, robotic process automation, and
-                more, I&apos;ve helped businesses streamline operations and
-                drive growth. I work at Data Market, where I lead the design and
-                development of cutting-edge applications. Currently, I&apos;m
-                actively learning React and taking steps to become a full-stack
-                developer.
+                {aboutMe}
               </p>
             </div>
           </div>
