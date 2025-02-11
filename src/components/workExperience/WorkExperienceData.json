@@ -2,11 +2,11 @@
   "workExperience": [
     {
       "name": "Data Market",
-      "title": "Digital Solutions Specialist",
+      "title": "Solution Development Specialist",
       "website": "https://www.datamarket.com.tr/en/",
       "dateBegin": "12.01.2021",
       "dateEnd": null,
-      "description": "<p>The main products that Data Market is developing are enterprise content management solutions (Hyland OnBase), robotic process automation (Hyland RPA), corporate identity management (ideal), industrial IoT (connected and smart), employee interaction mobile app (Mobil Yaka).</p><p>As a member of the Digital Solutions team, I am responsible for designing and developing applications for PoC and the production environment. Moreover, I do live demos of our products with our sales team to the customers, weekly online webinars, document my work, prioritize roadmap tasks and keep myself up-to-date with recent technology to extend our software portfolio.</p>",
+      "description": "<p>Data Market develops enterprise content management solutions (Hyland OnBase), robotic process automation (Hyland RPA), corporate identity management, and employee interaction mobile applications. I have taken on two roles at Data Market, first as a Digital Solutions Specialist and now as a Solution Development Specialist on the R&D team.</p><p><strong>Solution Development Specialist (Jan 2024 - Present)</strong></p><ul><li>Focus on generative AI technologies and frontend development.</li><li>Design and implement AI-driven software using React, Redux Toolkit, and TypeScript.</li><li>Continuously research and apply advancements in AI to enhance application performance and capabilities.</li></ul><p><strong>Digital Solutions Specialist (Dec 2021 - Jan 2024)</strong></p><ul><li>Designed and developed applications for PoC and production environments.</li><li>Collaborated with the sales team to deliver live product demos.</li><li>Conducted weekly online webinars to educate clients and stakeholders.</li><li>Created and maintained comprehensive product documentation.</li></ul>",
       "stillWorking": true
     },
     {
@@ -15,7 +15,7 @@
       "website": "https://www.ddi-tech.com/en/home",
       "dateBegin": "02.01.2014",
       "dateEnd": "08.01.2018",
-      "description": "<p>Kofax produces applications software that provides information capture, process management, data integration, customer communications management and analytics.</p><p><ul><li>Designing new forms and validation user interfaces with Kofax Capture and Transformation</li><li>Revision and redesign of existing projects</li><li>Workflow design for service bureau operations</li><li>Integration of Capture software to customer's business applications (Pega, SAP, OpenText, MSSQL etc.)</li><li>Invoice and cheque automation</li></ul></p>",
+      "description": "<p>Kofax develops software for information capture, process management, data integration, customer communications management and analytics.</p><p><ul><li>Designing new forms and validation user interfaces with Kofax Capture and Transformation</li><li>Revision and redesign of existing projects</li><li>Workflow design for service bureau operations</li><li>Integration of Capture software to customer's business applications (Pega, SAP, OpenText, MSSQL etc.)</li><li>Invoice and cheque automation</li></ul></p>",
       "stillWorking": false
     },
     {
