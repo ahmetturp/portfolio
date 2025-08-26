@@ -9,16 +9,13 @@ const Hero = () => {
   // Retrieve dark mode preference from local storage or default to system preference
   const savedDarkModePreference = localStorage.getItem("darkModePreference");
   const [prefersDarkMode, setPrefersDarkMode] = useState(
-    savedDarkModePreference
-      ? savedDarkModePreference === "dark"
-      : window.matchMedia &&
-          window.matchMedia("(prefers-color-scheme: dark)").matches
+    window.matchMedia &&
+      window.matchMedia("(prefers-color-scheme: dark)").matches
   );
 
   // Toggle dark mode
   const setDarkMode = (mode) => {
     setPrefersDarkMode(mode === "dark");
-    localStorage.setItem("darkModePreference", mode);
     document.documentElement.setAttribute(
       "class",
       `theme-${mode.toLowerCase()}`
