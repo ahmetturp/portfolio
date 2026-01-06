@@ -41,7 +41,7 @@
       "title": "Customer Payment Orders Automation",
       "shortDescription": "We helped our customer to automate their workflow. The daily volume of the process was consisting of 5000 cases.",
       "tags": ["Data Extraction", "OCR"],
-      "thumbnail": "./images/projects/ValidationScreen.jpg",
+      "thumbnail": "./images/projects/customerPaymentOrdersAutomation.png",
       "markdownFile": "../projectsContent/Customer Payment Orders Automation/markdown.md",
       "isActive": true
     },
