@@ -43,24 +43,24 @@
       "tags": ["Data Extraction", "OCR"],
       "thumbnail": "./images/projects/ValidationScreen.jpg",
       "markdownFile": "../projectsContent/Customer Payment Orders Automation/markdown.md",
-      "isActive": false
-    },
-    {
-      "id": 6,
-      "title": "Smart House (IoT)",
-      "shortDescription": "<p>In this group project, we offer a consumer-related Smart House solution along with a prototype.</p><p>We used Particle Photon as the IoT interface and developed a mobile application for users to remotely control smart objects at their home.</p>",
-      "tags": ["IoT", "Particle Photon", "Mobile"],
-      "thumbnail": "./images/projects/smartHouse.png",
-      "markdownFile": "../projectsContent/Smart%20House%20(IoT)/markdown.md",
       "isActive": true
     },
     {
-      "id": 7,
+      "id": 6,
       "title": "Low Code Development",
       "shortDescription": "I developed several mobile and web apps on different low-code/no-code platforms such as OutSystems, Kuika and Mendix. Here I display two of them, an event management app and hupiko, an employee engagement app.",
       "tags": ["Low-code", "No-code", "OutSystems"],
       "thumbnail": "./images/projects/lowCodeProjects.jpg",
       "markdownFile": "../projectsContent/Low%20Code%20Development/markdown.md",
+      "isActive": true
+    },
+    {
+      "id": 7,
+      "title": "Smart House (IoT)",
+      "shortDescription": "<p>In this group project, we offer a consumer-related Smart House solution along with a prototype.</p><p>We used Particle Photon as the IoT interface and developed a mobile application for users to remotely control smart objects at their home.</p>",
+      "tags": ["IoT", "Particle Photon", "Mobile"],
+      "thumbnail": "./images/projects/smartHouse.png",
+      "markdownFile": "../projectsContent/Smart%20House%20(IoT)/markdown.md",
       "isActive": true
     },
     {
