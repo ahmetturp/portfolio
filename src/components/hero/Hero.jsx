@@ -144,7 +144,7 @@ const Hero = () => {
           </figure>
           <p className="title is-size-1 is-size-2-mobile mt-5">Ahmet Turp</p>
           <p className="subtitle is-size-4 is-size-5-mobile mt-4">
-            Software Developer, ECM Specialist
+            BPM Solutions Developer, Full-Stack Developer
           </p>
           <a
             className="button is-medium is-rounded block mt-4"
