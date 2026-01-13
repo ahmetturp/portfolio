@@ -1,5 +1,5 @@
 const AboutMe = () => {
-  const aboutMe = `Hi, I'm Ahmet, a software developer dedicated to crafting innovative software solutions. With a background in software development, enterprise content management, and more, I've helped businesses streamline operations and drive growth. I work at Data Market, where I lead the design and development of cutting-edge applications. Currently, I'm actively learning React and taking steps to become a full-stack developer.`;
+  const aboutMe = `Hi, I'm Ahmet, a software developer specializing in low-code platforms, BPM solutions, and business process automation, while actively working as a full-stack developer to design scalable, user-friendly applications that help organizations digitize workflows and optimize operations.`;
   return (
     <section className="section bg-gradient-about-me is-medium has-border-bottom">
       <div className="container">
